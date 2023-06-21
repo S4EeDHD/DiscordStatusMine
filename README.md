@@ -1,5 +1,5 @@
 # DiscordStatusMine
-A CodeBot  Show Members Onilne Mine In Discord Status Bot
+a bot for show server's online players and status in discord 
 
 #Maded By - RichFly 秒#7777
 
