@@ -13,7 +13,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 
 # EDIT THIS INFO
 SERVER_IP = "127.0.0.1"
-SERVER_PORT = 25566
+SERVER_PORT = 25565
 TOKEN = "TOKEN"
 # -------------
 
