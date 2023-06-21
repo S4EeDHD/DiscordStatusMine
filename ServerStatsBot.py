@@ -4,7 +4,6 @@ import time
 import struct
 import discord
 from discord.ext import commands, tasks
-import time
 import asyncio
 
 intents = discord.Intents.default()
